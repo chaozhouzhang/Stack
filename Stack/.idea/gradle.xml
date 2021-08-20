@@ -11,8 +11,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/label" />
+            <option value="$PROJECT_DIR$/audio" />
+            <option value="$PROJECT_DIR$/canvas" />
+            <option value="$PROJECT_DIR$/play" />
+            <option value="$PROJECT_DIR$/record" />
             <option value="$PROJECT_DIR$/surface" />
+            <option value="$PROJECT_DIR$/thread" />
+            <option value="$PROJECT_DIR$/video" />
             <option value="$PROJECT_DIR$/window" />
           </set>
         </option>

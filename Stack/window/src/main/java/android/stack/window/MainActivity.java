@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void showWindow() {
         mButton = new Button(this);
-        mButton.setText("窗口中的按钮");
+        mButton.setText("Button in the window.");
         WindowManager.LayoutParams layoutParams = new WindowManager.LayoutParams(
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 WindowManager.LayoutParams.WRAP_CONTENT,
