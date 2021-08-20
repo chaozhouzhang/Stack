@@ -1,0 +1,5 @@
+rootProject.name = "Stack"
+include ':app'
+include ':surface'
+include ':window'
+include ':label'
