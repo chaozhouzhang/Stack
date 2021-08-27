@@ -1,4 +1,4 @@
-package android.stack.compose;
+package android.stack.opengles;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,6 @@ import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
