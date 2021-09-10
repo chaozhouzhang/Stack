@@ -12,8 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/audio" />
+            <option value="$PROJECT_DIR$/bitmap" />
             <option value="$PROJECT_DIR$/canvas" />
             <option value="$PROJECT_DIR$/compose" />
+            <option value="$PROJECT_DIR$/file" />
             <option value="$PROJECT_DIR$/opengles" />
             <option value="$PROJECT_DIR$/play" />
             <option value="$PROJECT_DIR$/record" />
