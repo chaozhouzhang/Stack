@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/surface" />
             <option value="$PROJECT_DIR$/thread" />
             <option value="$PROJECT_DIR$/video" />
+            <option value="$PROJECT_DIR$/view" />
             <option value="$PROJECT_DIR$/window" />
           </set>
         </option>
