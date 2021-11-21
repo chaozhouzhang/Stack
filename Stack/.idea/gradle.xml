@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/audio" />
             <option value="$PROJECT_DIR$/bitmap" />
+            <option value="$PROJECT_DIR$/camera" />
             <option value="$PROJECT_DIR$/canvas" />
             <option value="$PROJECT_DIR$/compose" />
             <option value="$PROJECT_DIR$/file" />
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/video" />
             <option value="$PROJECT_DIR$/view" />
             <option value="$PROJECT_DIR$/window" />
+            <option value="$PROJECT_DIR$/yuv" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
